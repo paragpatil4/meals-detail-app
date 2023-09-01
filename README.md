@@ -1,6 +1,6 @@
 # meals-detail-app
 
-Designed and built a high-performance Meals App from scratch using React Native, delivering a seamless user experience and achieving a 40% increase in user engagement.
+Designed and built a high-performance Meals App from scratch using React Native, seamless user experience to achieve user engagement.
 
 
 ![WhatsApp Image 2023-08-31 at 11 29 22 PM (1)](https://github.com/paragpatil4/meals-detail-app/assets/98542894/fa9c0b98-230c-4aab-99d3-115c2d705196)
